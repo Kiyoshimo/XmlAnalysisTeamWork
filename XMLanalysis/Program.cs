@@ -70,6 +70,8 @@ namespace XMLanalysis   {
             testitem.parkName = @"測試停車場";
             mPark.InsertData(testitem);
             Console.ReadKey();
+            //-------------------------------------------------------------LienChiaLing
+            //ChiaLing is good !!
         }
 
     }
